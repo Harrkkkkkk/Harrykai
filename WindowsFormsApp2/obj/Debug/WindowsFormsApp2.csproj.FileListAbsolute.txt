@@ -1,0 +1,11 @@
+E:\gaoshu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\gaoshu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\gaoshu\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\gaoshu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\gaoshu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\gaoshu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\gaoshu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\gaoshu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\gaoshu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\gaoshu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\gaoshu\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
